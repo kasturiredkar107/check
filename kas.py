@@ -3,4 +3,7 @@ if kas=="yes":
     print("yasss")
     print("samosa")
 else:
-    print("noooo")
+    inp= input("are you thirsty")
+    if inp=="yes":
+        print("drink soda")
+    
